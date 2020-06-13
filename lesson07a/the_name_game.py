@@ -1,0 +1,5 @@
+input_name = input()
+print("%s, %s, bo-b%s" % (input_name, input_name, input_name[1:]))
+print("banana-fana fo-f%s" % (input_name[1:]))
+print("fee-fi-mo-m%s" % (input_name[1:]))
+print(input_name + "!")
